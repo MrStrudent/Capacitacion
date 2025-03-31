@@ -12,9 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuInicial.unity
     guid: 19f10554b86adab4c9af970d81c44a92
   - enabled: 1
-    path: Assets/Scenes/Login.unity
-    guid: 815fee6027a9d6d44b3261b09612ffcc
-  - enabled: 1
     path: Assets/Scenes/SeleccionNivel.unity
     guid: e2e200f631fb98f4cb403db32894f000
   - enabled: 1
@@ -26,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Simulacion3.unity
     guid: ab78d482c77043e4fa20b2cf941e19a3
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 815fee6027a9d6d44b3261b09612ffcc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
